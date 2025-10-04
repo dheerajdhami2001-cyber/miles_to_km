@@ -23,8 +23,6 @@ Below is a screenshot of the application's user interface:
 
 ![Application Screenshot](demo_ss.png)
 
-*(Note: Please ensure you upload your GUI screenshot to the repository and name it `demo_ss.png` for the image above to display correctly.)*
-
 ## ⚙️ Getting Started
 
 ### Prerequisites
